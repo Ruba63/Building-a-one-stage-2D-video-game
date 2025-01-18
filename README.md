@@ -1,4 +1,4 @@
-Building a one-stage 2D video game
+# Building a one-stage 2D video game
 
 ## Introduction
 
