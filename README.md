@@ -10,3 +10,7 @@ The game application aims to provide an enjoyable and exciting experience by tel
 - Engaging players in an exciting story
 - Providing exciting challenges
 - Ensuring a smooth and attractive user interface
+
+## Application (RPG in a Box - Demo)
+
+RPG in a Box - Demo is a tool that allows users to create their own role-playing games without needing any programming skills. It provides a variety of assets and tools to design characters, maps, and storylines. The demo version offers a glimpse of its features, enabling users to experiment and build simple games.
