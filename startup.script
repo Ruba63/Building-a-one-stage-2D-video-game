@@ -1,0 +1,2 @@
+load_map("overworld", coord[-1, -1, 0], EAST);
+display_message("Welcome to the Kenney 1-Bit example game!");
