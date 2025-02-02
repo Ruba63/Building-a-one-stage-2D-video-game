@@ -1,0 +1,2 @@
+load_map("overworld", coord[-1, -1, 0], EAST);
+display_message("Hello! Go And Search for your Grandfather");
